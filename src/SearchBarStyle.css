@@ -1,0 +1,31 @@
+.searchBar {
+  margin-top: 50px;
+  font-weight: bold;
+  font-family: "Lora", serif;
+}
+
+.searchButton {
+  align-content: left;
+  border: none;
+  font-family: "Lora", serif;
+  font-weight: bold;
+  margin-left: 170px;
+  color: white;
+  padding: 5px 12px;
+  text-align: center;
+  background-color: black;
+  border-radius: 7px;
+}
+.searchButton:active {
+  background-color: silver;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.inputBox {
+  font-weight: bold;
+  font-family: "Lora", serif;
+  margin-bottom: 6px;
+  width: 235px;
+  border:1px solid;
+  border-radius: 3px;
+}

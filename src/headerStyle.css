@@ -1,0 +1,13 @@
+
+.iconContainer{
+  height: 20px;
+  margin: 50px;
+}
+.iconStyle{
+  width: 10%
+}
+
+.iconText{
+  font-weight: bold;
+  font-family: 'Lora', serif;
+}
