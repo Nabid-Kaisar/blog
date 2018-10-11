@@ -8,10 +8,12 @@ import Writing from "./Writing"
 class App extends Component {
   render() {
     return (
-      <div>
+      <div className= "bgcol">
+      <div className= "bgcol">
       <div className="titleCompContainer">
         <Header />
         <SearchBarTop />
+      </div>
       </div>
       <div className="navBar">
       <NavBar/>
