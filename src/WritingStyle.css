@@ -1,0 +1,8 @@
+.frame {
+  border: 1px solid black;
+  margin-left: 33px;
+  margin-top: 33px;
+
+  font-weight: bold;
+  font-family: 'Lora', serif;
+}

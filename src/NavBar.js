@@ -10,12 +10,12 @@ class NavBar extends Component {
             Home
           </a>
 
-          <div class="dropdown">
-            <button class="dropbtn">
+          <div className="dropdown">
+            <button className="dropbtn">
               Category
-              <i class="fa fa-caret-down" />
+              <i className="fa fa-caret-down" />
             </button>
-            <div class="dropdown-content">
+            <div className="dropdown-content">
               <a href="#">Science</a>
               <a href="#">Sports</a>
               <a href="#">Travel</a>
