@@ -1,8 +1,18 @@
 .frame {
-  border: 1px solid black;
+  border: 1.5px solid black;
   margin-left: 33px;
   margin-top: 33px;
 
   font-weight: bold;
   font-family: 'Lora', serif;
+
+  min-height: 130px;
+  min-width:  300px;
+  word-wrap: break-word;
+
+}
+
+.headItem{
+  font-style: italic;
+  text-decoration: underline;
 }

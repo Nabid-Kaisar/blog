@@ -40,3 +40,11 @@
 .card{
    flex: 0 1 calc(25% - 1em);
 }
+.card3{
+   flex: 0 1 calc(25% - 1em);
+   margin-right: 20px;
+}
+.card6{
+   flex: 0 1 calc(25% - 1em);
+    margin-right: 20px;
+}

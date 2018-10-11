@@ -5,6 +5,7 @@ class Writing extends Component {
     return (
       <div>
         <section className="frame">
+          <article className="headItem">{this.props.blogName}</article>
           <article>Blogger name: {this.props.name}</article>
 
           <article>Type: {this.props.type}</article>
@@ -12,7 +13,7 @@ class Writing extends Component {
 
           <article>{this.props.mainWriting}</article>
         </section>
-        
+
       </div>
     );
   }
