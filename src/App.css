@@ -27,5 +27,8 @@
   display: flex;
   width: 94%;
   justify-content: space-between;
+}
 
+.navBar{
+margin-top:20px;
 }
